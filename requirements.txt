@@ -1,6 +1,6 @@
 alembic==1.12.1
 bcrypt
-blinker==1.7.0
+blinker
 click==8.1.7
 Flask
 Flask-Bcrypt==1.0.1
